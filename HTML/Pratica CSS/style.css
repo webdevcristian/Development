@@ -1,0 +1,18 @@
+/* # es para seleccionar un ID */
+/* El uso del punto es para seleccionar clases */
+/*Todos los elementos de HTML son un modelo de caja */
+body {
+  background-color: #eee;
+}
+.caja {
+  margin: 8px;
+  padding: 8px;
+  border-style: solid;
+  border-width: 4px;
+  border-color: #faa;
+  border-radius: 6px;
+  background-color: #dadada;
+  height: 100px;
+  width: 100px;
+  color: #575757;
+}

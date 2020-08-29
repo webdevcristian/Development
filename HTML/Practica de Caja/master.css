@@ -1,0 +1,41 @@
+body {
+  background-color: #dadada;
+}
+
+.caja {
+  padding: 15px;
+  margin: 8px;
+  border-style: outset;
+  border-top: none;
+  border-width: 1px;
+  background-color: white;
+
+}
+.cajita {
+  padding: 8px;
+  border-style: solid;
+  border-left: none;
+  border-right: none;
+  border-color: #0a0;
+  border-width: 1px;
+}
+
+#ba {
+  width: 100px;
+  height: 25px;
+  border-radius: 6px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #3385C6;
+  color: white;
+}
+
+#bc {
+  width: 100px;
+  height: 25px;
+  border-radius: 6px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: white;
+  background-color: grey;
+}
